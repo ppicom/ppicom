@@ -6,8 +6,13 @@
 * Motorcycles 🏍
 * Trail running 🏃‍♂️💨
 
+## 🖋 And you can read about it on
+
+* [perepico.com](http://perepico.com)
+
 ## 🌱 I’m currently reading
 
+* Limitless, by Jim Kwik
 * Domain Driven Design, by Eric Evans
 * Mindsets, by Dr. Carol Dweck
 
