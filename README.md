@@ -1,26 +1,5 @@
 # 👋 Hi, I’m @ppicom (but my friends call me Pere)
 
-## 👀 I’m interested in
-
-* Software Craftmanship
-* Motorcycles 🏍
-* Trail running 🏃‍♂️💨
-
-## 🖋 And you can read about it on
-
-* [perepico.com](http://perepico.com)
-
-## 🌱 I’m currently reading
-
-* Limitless, by Jim Kwik
-* Domain Driven Design, by Eric Evans
-* Mindsets, by Dr. Carol Dweck
-
-## 💞️ I’m looking to collaborate on
-
-* Open source projects
-* Software Crafters communities
-
 ## 📫 How to reach me ...
 
 * IPoAC RFC 1149 🕊
